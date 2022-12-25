@@ -1,0 +1,5 @@
+/Users/pangyu/Documents/CS_Year3/UserInterface/cwk2/Freewheelin-mobile/cmake-build-debug/CMakeFiles/Freewheelin-mobile.dir
+/Users/pangyu/Documents/CS_Year3/UserInterface/cwk2/Freewheelin-mobile/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pangyu/Documents/CS_Year3/UserInterface/cwk2/Freewheelin-mobile/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pangyu/Documents/CS_Year3/UserInterface/cwk2/Freewheelin-mobile/cmake-build-debug/CMakeFiles/Freewheelin-mobile_autogen_timestamp_deps.dir
+/Users/pangyu/Documents/CS_Year3/UserInterface/cwk2/Freewheelin-mobile/cmake-build-debug/CMakeFiles/Freewheelin-mobile_autogen.dir
